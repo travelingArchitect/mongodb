@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "626d68e095d1ef8f5b98b106"
+  },
+  "title": "Cities of Salt",
+  "author": "Abdulrahman Munif",
+  "pages": 450,
+  "genre": [
+    "politics",
+    "sociology"
+  ]
+},{
+  "_id": {
+    "$oid": "626d693495d1ef8f5b98b107"
+  },
+  "title": "The Lost Country",
+  "author": "Husam Sibai",
+  "pages": 450,
+  "genre": [
+    "fantasy",
+    "sociology"
+  ]
+},{
+  "_id": {
+    "$oid": "626d69d395d1ef8f5b98b109"
+  },
+  "title": "Young Friends",
+  "author": "Harry McGuire",
+  "pages": 200,
+  "genre": [
+    "sports",
+    "sociology"
+  ]
+},{
+  "_id": {
+    "$oid": "626d6dc095d1ef8f5b98b10a"
+  },
+  "title": "Cities of Salt",
+  "author": "Abdulrahman Munif",
+  "pages": 450,
+  "genre": [
+    "politics",
+    "sociology"
+  ]
+},{
+  "_id": {
+    "$oid": "626d6dc095d1ef8f5b98b10b"
+  },
+  "title": "The Secret",
+  "author": "Husam Sibai",
+  "pages": 150,
+  "genre": [
+    "history",
+    "sociology"
+  ]
+}]
